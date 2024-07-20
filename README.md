@@ -1,4 +1,4 @@
 # html-portfolio
-Author-SIDDHARTH
+Author-SIDDHARTH H G
 <br>
 This is my Git Repo.
